@@ -6,10 +6,10 @@
   - Клонируйте репозиторий https://github.com/toosoft/amocrm_test_integration.git.
 
   ## Об этом проекте:
-  — Этот проект создан для приема запросов веб-перехватчика от Amocrm.
-  - События сохраняются с помощью XML-скрипта.
-  - Последнее событие в платформе amocrm или авторизованных запросах API вытесняется в браузере.
-  - Посетите сайт Toosoft.com.ng/amocrm для просмотра.
+- Этот проект создан для приема запроса webhook от Amocrm.
+- События сохраняются с помощью скрипта xml.
+- Последнее событие на платформе amocrm или авторизованные запросы API отображаются в браузере.
+- Посетите http://izuchukwuogbonna.kesug.com/amocrm_test_integration/ для просмотра
 
 # Amocrm_Integration
 
@@ -21,6 +21,6 @@
 ## About this Project:
 - This project is built to accept a webhook request from Amocrm.
 - The events are stored with an xml script.
-- The last event in the amocrm platform or authorized api requests is displace in the browser.
+- The last event in the amocrm platform or authorized api requests is displayed in the browser.
 - Visit toosoft.com.ng/amocrm to view
 
