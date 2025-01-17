@@ -105,6 +105,7 @@ require "includes/SubmitFunctions.php";
  <body style="background-color:#CCC">
  
  <h1 style="text-align: center; color: #66f">Amocrm Integration Task</h1>
+ <div style="color: black; text-align: center">Это динамический контент! Последняя активность в панели управления AmoCRM будет автоматически отражена здесь</div>
 
  <div class="container">
   <div class="row">
